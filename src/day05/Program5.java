@@ -7,7 +7,8 @@ public class Program5 {
 
 	public static void main(String[] args) {
 		
-
+ 
+		Program6.xyz(10,20);
 	}
 
 	
