@@ -1,13 +1,21 @@
 package day10;
 
+import java.util.Scanner;
+
 public class Program4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a=10;
-		int b=10;
-		int c=400;
+		Scanner scan = new Scanner(System.in);
+		int a=scan.nextInt();
+		System.out.println("Input the value of a :");
+		int b=scan.nextInt();
+		System.out.println("Input the value of b :");
+		int c=scan.nextInt();
+		System.out.println("Input the value of c :");
+		
+		scan.close();
 		
 		if(a>=b && a>=c)
 		{
