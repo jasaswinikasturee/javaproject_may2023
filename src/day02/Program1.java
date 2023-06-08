@@ -1,6 +1,6 @@
  package day02;
 
-public class Program {
+public class Program1 {
 
 	//main method- line not to be executed
 	/* 

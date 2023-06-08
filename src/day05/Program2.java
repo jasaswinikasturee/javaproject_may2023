@@ -2,7 +2,7 @@ package day05;
 //sub-class //child class
 
 
-public class Program6 extends Program5 {
+public class Program2 extends Program1 {
 
 	public static void xyz(int x,int y) {
 		// TODO Auto-generated method stub

@@ -1,11 +1,11 @@
 package day04;
 
-public class Program4 {
+public class Program1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Program4 abc = new Program4();
+		Program1 abc = new Program1();
 		int x = add(20, 40) ;
 		System.out.println(x*x);
 		System.out.println(x*x*x);

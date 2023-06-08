@@ -1,6 +1,6 @@
 package day06.packageA;
 
-public class Program8 {
+public class Program2 {
 
 	
 	

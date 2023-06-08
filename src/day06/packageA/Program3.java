@@ -1,10 +1,10 @@
 package day06.packageA;
 
 
-public class Program9 extends Program8 {
+public class Program3 extends Program2 {
 	
 	public static void main(String[] args) {
-		Program8 x= new Program8();
+		Program2 x= new Program2();
 		x.add(10,20);
 		//x.div(10,2);//default methods
 		//x.mul(3,20);//protected non-static method

@@ -1,8 +1,8 @@
 package day05.packageA;
 
-import day05.Program5;
+import day05.Program1;
 
-public class Programm extends Program5{
+public class Program3 extends Program1{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

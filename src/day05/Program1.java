@@ -1,6 +1,6 @@
 package day05;
 //super class //parent class
-public class Program5 {
+public class Program1 {
 	
 	static int x=10;
 	static int y=20;
@@ -8,7 +8,7 @@ public class Program5 {
 	public static void main(String[] args) {
 		
  
-		Program6.xyz(10,20);
+		Program2.xyz(10,20);
 	}
 
 	
